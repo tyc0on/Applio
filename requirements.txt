@@ -9,7 +9,7 @@ wget
 faiss-cpu==1.7.3
 librosa==0.9.1
 pyworld==0.3.4
-scipy==1.11.1
+scipy
 soundfile==0.12.1
 praat-parselmouth
 
